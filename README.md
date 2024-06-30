@@ -1,2 +1,1 @@
-# Data-visualisation
-projects showcasing data visualization skills
+This project showcases the different data visualisatoin techniques that can be done for predicitng the UEFA champions league results based on the statistics of the teams and the venue that the match would be held. I have used graphs such as pie chart and scatter plot to predict the upcoming results of the UEFA champions league. The dataset used for this project was [UEFA champions league](https://www.kaggle.com/datasets/fardifaalam170041060/champions-league-dataset-1955-2023). 
